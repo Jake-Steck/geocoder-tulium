@@ -1,7 +1,7 @@
 import geocoder
 import folium
 
-g = geocoder.ip('96.242.156.156')
+g = geocoder.ip('me')
 
 myLocation = g.latlng
 
